@@ -1,17 +1,15 @@
 function Home() {
     return (
-        <h1>
-            This is Home Page
-        </h1>
+        <header>
+            <nav>
+                <a href="https://www.google.com/" className="navlink">Home</a>
+                <a href="https://www.google.com/" className="navlink">Login</a>
+                <a href="www.google.com" className="navlink">Register</a>
+            </nav>
+        </header>
     );
 }
 
-export function Register() {
-    return (
-        <h1>
-            This is Register Page
-        </h1>
-    );
-}
+
 
 export default Home;
