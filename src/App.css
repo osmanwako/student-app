@@ -64,3 +64,7 @@ main {
   font-size: 18px;
   background-color: transparent;
 }
+.student-list {
+  border-collapse: collapse;
+  border: #000 1px solid;
+}
