@@ -32,6 +32,13 @@ main {
   align-items: center;
 }
 
+.home {
+  height: 90%;
+  padding: 10px 20px;
+  margin: 15px 0;
+  border: 1px solid black;
+}
+
 .login-page {
   min-height: 375px;
   max-width: 478px;
